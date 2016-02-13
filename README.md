@@ -1,0 +1,2 @@
+# Unity-SpriteAnimation
+SpriteAnimation Plugin
